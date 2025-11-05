@@ -1,3 +1,0 @@
-#Methodology
-
-BY GOD AS MY WITNESS HE IS BROKEN IN HALF
