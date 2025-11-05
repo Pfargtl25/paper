@@ -5,3 +5,5 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.
 
 Some nonsense is found [here](./analysis.md).
 More nonsense is found [over here](./methodology.md).
+
+I am going to explode.
